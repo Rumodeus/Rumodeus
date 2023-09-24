@@ -1,11 +1,23 @@
-### rik rik rik rik
+# rik rik rik rik
+
+## qualifications & experience
+
+yeah i have no qualifications 
+
+Apps for Good 2021 Participant
+
+Czarmods Developer (Penetration Testing Program)
 
 ## languages
 
 Python (fluent)
+
 Javascript
+
 Lua
+
 Visual Basic
+
 C#
 
 ## projects
