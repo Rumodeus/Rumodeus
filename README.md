@@ -2,7 +2,11 @@
 
 ## languages
 
-Python (fluent)\nJavascript\nLua\nVisual Basic\nC#
+Python (fluent)
+Javascript
+Lua
+Visual Basic
+C#
 
 ## projects
 
