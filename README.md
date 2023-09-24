@@ -10,7 +10,7 @@ Czarmods Developer (Penetration Testing Program)
 
 ## languages
 
-Python (fluent)
+Python
 
 Javascript
 
