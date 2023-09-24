@@ -1,4 +1,20 @@
-### Hi there 👋
+### rik rik rik rik
+
+## languages
+
+Python (fluent)\nJavascript\nLua\nVisual Basic\nC#
+
+## projects
+
+yeah none lol
+
+## fun fact
+
+i have performed 3 different instruments across 7+ concerts
+
+## latest drawing
+![LandD](https://github.com/Rumodeus/Rumodeus/assets/91802844/57ed02b9-a20d-476f-91d1-c133cb663c56)
+
 
 <!--
 **Rumodeus/Rumodeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
