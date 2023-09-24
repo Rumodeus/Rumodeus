@@ -1,6 +1,6 @@
 # rik rik rik rik
 
-https://github.com/Rumodeus#languages
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rumodeus)](https://github.com/Rumodeus/github-readme-stats)
 
 ## qualifications & experience
 
