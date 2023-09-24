@@ -36,11 +36,15 @@ i have performed 3 different instruments across 7+ concerts
 drummer, bassist, guitarist, pianist and composer
 
 composition played by the English National Opera
-<video controls="" autoplay="" name="media">
-    <source src="https://github.com/Rumodeus/Rumodeus/blob/main/Last_resort_Orchestral_.mp3" type="audio/mp3">
-</video>
+
+
+https://github.com/Rumodeus/Rumodeus/assets/91802844/fa5ac984-67bf-433e-9faf-8f4af92f34da
+
+
 
 lead guitarist and band director for a band named "X1", having performed once and expecting another performance soon
+
+
 
 ### art
 
