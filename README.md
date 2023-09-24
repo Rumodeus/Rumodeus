@@ -1,5 +1,7 @@
 # rik rik rik rik
 
+https://github.com/Rumodeus#languages
+
 ## qualifications & experience
 
 yeah i have no qualifications 
