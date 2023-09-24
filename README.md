@@ -28,6 +28,25 @@ yeah none lol
 
 i have performed 3 different instruments across 7+ concerts
 
+
+## skills
+
+### musical
+
+drummer, bassist, guitarist, pianist and composer
+
+composition played by the English National Opera
+<video controls="" autoplay="" name="media">
+    <source src="https://github.com/Rumodeus/Rumodeus/blob/main/Last_resort_Orchestral_.mp3" type="audio/mp3">
+</video>
+
+lead guitarist and band director for a band named "X1", having performed once and expecting another performance soon
+
+### art
+
+i draw [pixiv](https://www.pixiv.net/en/users/68209246)
+
+
 ## latest drawing
 ![LandD](https://github.com/Rumodeus/Rumodeus/assets/91802844/57ed02b9-a20d-476f-91d1-c133cb663c56)
 
