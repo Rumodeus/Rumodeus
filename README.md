@@ -1,5 +1,7 @@
 # rik rik rik rik
 
+15 yr old idiot 
+
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rumodeus)](https://github.com/Rumodeus/github-readme-stats)
 
 ## qualifications & experience
