@@ -2,12 +2,10 @@
 
 15 yr old idiot 
 
-computer science portfolio + remsc
+computer science portfolio
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rumodeus)](https://github.com/Rumodeus/github-readme-stats)
 
-## REMSC
-<a href="https://docs.google.com/document/d/1Mer7-jEVTjBwfCZ5rpCqBxy-YkluALWEjHy6lpbG4p0" class="button">REMSC</a>
 
 ## qualifications & experience
 
