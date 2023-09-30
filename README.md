@@ -15,6 +15,7 @@ Apps for Good 2021 Participant
 
 Czarmods Developer (Penetration Testing Program)
 
+worked a bit on [osiris](https://github.com/DisECtRy/osiris)
 ## languages
 
 Python
