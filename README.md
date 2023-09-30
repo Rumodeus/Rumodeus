@@ -9,7 +9,7 @@ computer science portfolio
 
 ## qualifications & experience
 
-yeah i have no qualifications 
+yeah i have no qualifications (currently taking OCR Computer Science GSCE)
 
 Apps for Good 2021 Participant
 
