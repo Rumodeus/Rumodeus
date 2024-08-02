@@ -62,10 +62,6 @@ lead guitarist and band director for a band named "X1", having performed once an
 i draw [pixiv](https://www.pixiv.net/en/users/68209246)
 
 
-## latest drawing
-![G3AYA](https://media.discordapp.net/attachments/1056577701382729778/1237112323316125787/amaya_alleys.png?ex=663dc1e2&is=663c7062&hm=0b46c8aa4f2e5c3a032b66629e6cf8c70a8c85b57fed34f3c4a78ca3cc2ad788&)
-
-
 <!--
 **Rumodeus/Rumodeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
