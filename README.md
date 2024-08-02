@@ -1,6 +1,6 @@
 # rik rik rik rik
 
-15 yr old idiot 
+16 yr old idiot 
 
 computer science portfolio
 
@@ -9,7 +9,10 @@ computer science portfolio
 
 ## qualifications & experience
 
-yeah i have no qualifications (currently taking OCR Computer Science GSCE)
+J277 Computer Science GCSE (Predicted 9)
+AQA Higher Mathematics GCSE (Predicted 9)
+
+Imperial College London STEM Challenge 1st Place
 
 Apps for Good 2021 Participant
 
