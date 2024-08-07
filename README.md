@@ -10,7 +10,7 @@ computer science portfolio
 ## qualifications & experience
 
 J277 Computer Science GCSE (Predicted 9 / A**)
-AQA Higher Mathematics GCSE (Predicted 9/ A**)
+AQA Higher Mathematics GCSE (Predicted 9 / A**)
 
 Imperial College London STEM Challenge 1st Place
 
