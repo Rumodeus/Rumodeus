@@ -10,6 +10,11 @@
 J277 Computer Science GCSE (Achieved 8 / A*)
 AQA Higher Mathematics GCSE (Acheived 9 / A**)
 
+Undertaking:
+A level Mathematics
+A level Computer Science
+Music Performance BTEC
+
 Imperial College London STEM Challenge 1st Place
 
 Apps for Good 2021 Participant
